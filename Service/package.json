@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "nodemon src/index.js"
+        "dev": "nodemon src/index.js",
+        "url": "git@github.com:Meshdako/GR5-API-REST.git"
     },
     "keywords": [],
     "author": "",
